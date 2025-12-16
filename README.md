@@ -1,11 +1,5 @@
-# nlp-project
+#Demonstration selection for in-context learning
 
-todo:
+Testing and evaluating various strategies for in-context learning, applied to dialogue-state tracking.
 
-prepare poster
-
-create requirements file and test that it works on a new environment
-
-embed the entire train dataset
-
-execute all esperiments and plot the results
+The code uses an evaluation library from https://github.com/BUTSpeechFIT/MultiWOZ_Evaluation

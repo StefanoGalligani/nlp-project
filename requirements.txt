@@ -4,3 +4,13 @@ python-Levenshtein
 sacrebleu
 sacremoses
 setuptools
+datasets
+sentence_transformers
+transformers
+torch
+json-repair
+numpy
+tqdm
+matplotlib
+ipywidgets
+accelerate
