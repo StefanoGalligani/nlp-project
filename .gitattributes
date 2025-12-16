@@ -1,2 +1,2 @@
-*.labse filter=lfs diff=lfs merge=lfs -text
 *.d2f filter=lfs diff=lfs merge=lfs -text
+*.labse filter=lfs diff=lfs merge=lfs -text
