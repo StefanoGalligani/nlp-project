@@ -1,0 +1,400 @@
+["hotel", "profile", "restaurant"]
+{"hotel": {"internet": "yes", "name": "Acorn Guest House", "parking": "yes", "pricerange": "moderate"}, "profile": {"name": "Josephina Coffey", "age": "unknown", "email": "unknown"}, "restaurant": {"openinghour": "unknown", "name": "Well Offer Time", "address": "unknown"}}
+{"hotel": {"internet": "yes", "name": "Acorn Guest House", "parking": "yes", "pricerange": "moderate"}, "profile": {"name": "Josephina Coffey", "age": "unknown", "occupation": "unknown"}, "restaurant": {"name": "Well Offer Time", "openinghour": "10:00 AM - 5:00 PM", "address": "unknown"}}
+{"hotel": {"internet": "yes", "name": "Acorn Guest House", "parking": "yes", "pricerange": "moderate"}, "profile": {"name": "Josephina Coffey"}, "restaurant": {"openinghour": "9am-6pm", "name": "Well Offer Time"}}
+"1234567890"
+{"attraction": {"area": "center", "name": "Cafe Jello Gallery", "type": "museum"}, "train": {"departure_city": "Leicester", "departure_time": "1 o'clock", "destination": "Leicester", "leaving_day": "Tuesday"}}
+{"attraction": {"area": "center", "name": "Cafe Jello Gallery", "type": "museum"}, "train": {"leaving_day": "Tuesday", "leaving_time": "1:00", "destination": "Leicester", "departure_city": "University City", "arrival_time": "1:00"}}
+{"attraction": {"area": "center", "name": "The Train Station", "type": "train"}, "train": {"departure": "Tuesday", "destination": "Leicester", "departure_time": "1:00 PM", "arrival_time": "1:00 PM"}}
+"George Fiery"
+{"profile": {"name": "Fiery"}, "restaurant": {"day": "Sunday", "people": "6", "food": "New Delhi", "time": "19:45"}}
+{"profile": {"name": "Fay"}, "restaurant": {"day": "Sunday", "people": "6", "time": "19:45", "area": "West", "food": "New Delhi"}}
+{"profile": {"name": "Fay", "age": "40"}, "restaurant": {"day": "Sunday", "people": "6", "time": "19:45", "area": "West", "food": "New Delhi"}}
+["name", "age", "gender", "address", "phone", "email"]
+{}
+{}
+{}
+""
+{"hotel": {"name": "Home from Home"}, "profile": {"idnumber": "12345678", "name": "Lucy"}, "restaurant": {"cuisine": "Japanese", "price": "cheap", "location": "center", "type": "Indian"}}
+{"hotel": {"type": "B&B", "freeParking": "yes"}, "profile": {"name": "Lucy"}, "restaurant": {"cuisine": "Japanese", "location": "center", "price": "cheap"}}
+{"hotel": {"name": "Home from Home"}, "profile": {"name": "Lucy"}, "restaurant": {"cuisine": "Japanese", "location": "center", "price": "cheap"}}
+"Yes"
+{"location": ["Cambridge", "London, Liverpool Street"], "choice": ["dine", "place"]}
+""
+{"train": {"departure": "London Liverpool Street", "destination": "Cambridge"}}
+"answer_key"
+""
+{}
+"Cambridge"
+["location", "person", "trend", "event"]
+{"hotel": {"area": "South", "internet": "yes", "parking": "yes", "stars": "3"}, "train": {"leaves": "Saturday"}}
+""
+{"hotel": {"area": "South", "internet": "yes", "parking": "yes", "stars": "3"}, "train": {"leaves": "Saturday"}}
+["phone_number", "name", "date", "restaurant", "hotel", "area", "food", "time", "car_type"]
+{"hotel": {"area": "East", "parking": "yes", "pricerange": "moderate", "stars": "4"}, "profile": {"name": "Earl Halpern", "phone": "711- 1-4-9- 7209"}, "restaurant": {"food": "Italian", "area": "East", "price": "moderate", "booktime": "12 o'clock'}", "taxi": {"car": "taxi", "booktime": "same as restaurant"}}, "area": "s in"}
+{"hotel": {"area": "East", "pricerange": "moderate", "stars": "4", "Wi-Fi": "yes"}, "profile": {"name": "Earl Halpern", "phone": "711- 1-4-9- 7209"}, "restaurant": {"area": "East", "cuisine": "Turkish", "price": "moderate", "table": "12 o'clock'}", "taxi": {"type": "car"}}}
+{"hotel": {"area": "East", "price": "moderate", "guesttype": "Guest House", "wi-fi": "yes"}, "profile": {"name": "Earl Halperdy", "surname": "Halpern"}, "restaurant": {"food": "Turkish", "price": "moderate", "area": "East"}, "taxi": {"type": "Car", "booktime": "Monday 12:00", "phone": "711-1-4-9-7209"}}
+["name", "phone", "address", "date", "time", "location", "price", "room_type", "booking", "reservation", "parking"]
+{"profile": {"name": "Jason Hamilton"}, "hotel": {"stars": "2", "Wi-Fi": "free", "facilities": "many", "price": "expensive", "check-in": "Monday", "check-out": "Saturday", "room": "single"}, "restaurant": {"day": "Monday", "time": "18:30", "people": "1", "food": "unknown", "pricerange": "expensive"}}
+{"hotel": {"star": "2", "freeWiFI": "true", "facilities": "lots"}, "profile": {"name": "Jason Hamilton"}, "restaurant": {"day": "Monday", "time": "18:30", "food": "expensive", "location": "centre of Cambridge"}}
+{"hotel": {"amenity": "Wi-Fi", "rating": "***", "price": "expensive", "facilities": "lots of facilities"}, "profile": {"name": "Jason Hamilton"}, "restaurant": {"day": "Monday", "time": "18:30", "people": "1", "food": "centre of Cambridge", "pricerange": "expensive", "table": "46", "location": "Sunday", "book": "Yes"}}
+["Eastman", "expensive"]
+{"hotel": {"day": "Saturday", "people": "4", "stay": "3", "area": "East", "internet": "no", "price": "expensive", "type": "guest house"}, "profile": {"idnumber": "59702232"}, "train": {"people": "4", "day": "third", "departure": "Bishop Street Fort", "destination": "Cambridge", "leaveat": "13:45"}}
+{"hotel": {"area": "East", "people": "4", "price": "expensive", "day": "Wednesday", "stay": "3", "type": "hotel"}, "profile": {"idnumber": "59702232"}, "train": {"people": "4", "day": "Wednesday", "departure": "Bishop Street Fort", "destination": "Cambridge", "leaveat": "13:45"}}
+{"hotel": {"area": "Eastman", "price": "expensive", "type": "guest house"}, "profile": {"idnumber": "59702232"}, "train": {"people": "4", "departure": "Bishop Street Fort", "leaveat": "13:45", "destination": "Cambridge", "day": "Thursday"}}
+"John Walter"
+{"attraction": {"name": "Raskin-Tallard"}, "profile": {"name": "John Walter"}, "restaurant": {"area": "centre", "food": "Chinese", "pricerange": "cheap"}}
+{"attraction": {"name": "Ruskin Gallery"}, "profile": {"name": "John Walter"}, "restaurant": {"area": "centre", "food": "Indian", "pricerange": "cheap"}}
+{"attraction": {"name": "Kensington Palace"}, "profile": {"name": "John Walter"}, "restaurant": {"area": "centre", "pricerange": "cheap"}}
+["hotel", "price", "location", "type", "amenities"]
+{"hotel": {"pricerange": "moderate", "type": "four star", "parking": "no", "Wi-Fi": "yes"}}
+{"hotel": {"pricerange": "moderate", "type": "four star", "Wi-Fi": "yes"}}
+{"hotel": {"pricerange": "moderate", "type": "four star", "Wi-Fi": "free"}}
+"Sara"
+{"profile": {"phonenumber": "6663121179"}, "restaurant": {"area": "centre", "food": "British", "expensive": true, "book": {"name": "Sara", "date": "Sunday at quarter past five in the afternoon", "numberofpeople": "six", "time": "afternoon"}}}
+{"profile": {"phonenumber": "6663121179"}, "restaurant": {"area": "centre", "food": "British", "capacity": "6", "day": "Sunday", "time": "5:00", "letter": "P-R-E-S-T-O-N"}}
+{"profile": {"phonenumber": "1234567890"}, "restaurant": {"area": "centre", "food": "British", "numberofpeople": "6", "day": "Sunday", "time": "17:30", "name": "Preston"}}
+["three-star", "free Wi-Fi", "moderate price"]
+{"hotel": {"arrival": "Thursday", "departure": "Wednesday", "price": "moderate", "rating": "three-star", "free_wifi": "yes", "name": "Jason Flanagan", "id": "3960 6-4-3-3 3645"}, "profile": {"full_name": "Jason Flanagan", "first_name": "J-A-S-O-N", "last_name": "Flanagan", "id": "3960 6-4-3-3 3645"}, "train": {"day": "Saturday"}}
+{"hotel": {"price": "moderate", "rating": "3", "amenity": "free Wi-Fi"}, "profile": {"full name": "Jason Flanagan", "name": "Jason", "first name": "Jason", "last name": "Flanagan", "ID": "3960 6-4-3-3 3645"}, "train": {"day": "Saturday", "departure": "Cambridge", "destination": "Stansted Airport", "leaveat": "09:00"}}
+{"hotel": {"price": "moderate", "rating": "3-star", "free_wifi": true}, "profile": {"full_name": "Jason Flanagan", "id": "3960 6-4-3-3. 3645"}, "train": {"departure": "Cambridge", "destination": "Stansted Airport", "leaveat": "09:00", "day": "Saturday"}}
+"John"
+{"train": {"destination": "Cambridge"}}
+{"train": {"destination": "Cambridge"}}
+{"destination": "Cambridge"}
+["name", "phone", "email", "date", "number", "location", "time", "address"]
+{"profile": {"name": "Michelle Bowlingsell", "market": "I-C-H-A-E-L", "letter": "B-I-L-L", "location": "L", "letter2": "I-N-G-S", "letter3": "S", "letter4": "C", "letter5": "L"}}
+{"profile": {"name": "Michelle Bowlingsell"}, "restaurant": {"day": "Thursday", "people": "6", "time": "12:00", "area": "centre", "food": "Spanish", "pricerange": "not specified"}}
+{"profile": {"name": "Michelle Bowlingsell"}, "restaurant": {"day": "Thursday", "people": "6", "time": "11:15", "area": "century", "food": "Spanish", "pricerange": "no"}}
+"train"
+{}
+""
+{"train": "train"}
+["Cambridge", "Stevenage", "first day of the work week", "8.30 a.m."]
+{"hotel": {"area": "Norman Way"}, "train": {"arriveby": "08:30", "day": "Monday", "departure": "Stevenage", "destination": "Cambridge"}}
+{"hotel": {"area": "Norman Way"}, "train": {"arriveby": "08:30", "day": "Monday", "departure": "Stevenage", "destination": "Cambridge"}}
+{"train": {"arriveby": "08:30", "day": "Monday", "departure": "Stevenage", "destination": "Cambridge"}, "hotel": {"area": "Norman Way"}}
+"Hello"
+{"treasurer": {"day": "Friday", "departure": "Cambridge", "destination": "Birmingham New Street", "leaveat": "11:01"}}
+{"train": {"treasurer": "E-line", "treasure": "Cambridge"}}
+{"train": {"day": "Friday", "destination": "Cambridge"}}
+"843"
+{"hotel": {"type": "guesthouse", "area": "East", "price": "Moderate"}, "train": {"people": "1", "day": "Sunday", "departure": "Stevenage", "destination": "Cambridge", "leaveat": "10:15"}}
+{"hotel": {"price": "moderate", "type": "guesthouse", "area": "East"}, "train": {"people": "3", "day": "Sunday", "departure": "Stevenage", "destination": "Cambridge", "leaveat": "10:10"}}
+{"hotel": {"area": "East", "price": "Moderate", "type": "Guest House"}, "train": {"people": "3", "day": "Sunday", "departure": "Stevenage", "destination": "Cambridge", "leaveat": "10:10"}}
+["from", "to", "leaves", "time"]
+{"people": "1", "destination": "Cambridge", "departure": "Queensland", "day": "Tuesday", "arriveby": "11:00"}
+{"train": {"departure": "Queensland", "destination": "Cambridge", "day": "Tuesday", "arriveby": "11:00"}}
+{"departure": "Queensland", "destination": "Cambridge", "day": "Tuesday", "arriveby": "11:00"}
+["name", "location", "type", "rating", "price", "duration", "date", "address"]
+{"attraction": {"area": "Center"}, "hotel": {"day": "Saturday", "people": "7", "stay": "4", "area": "Center", "pricerange": "no free parking", "stars": "4", "type": "guest house"}, "profile": {"name": "Adi Gambo"}}
+{"attraction": {"area": "Center"}, "hotel": {"day": "Saturday", "people": "7", "stay": "3", "area": "Center", "pricerange": "high", "stars": "4", "type": "guest house"}, "profile": {"name": "Adi Gambo"}}
+{"attraction": {"area": "Center"}, "hotel": {"stars": "4", "day": "Saturday", "people": "7", "stay": "3", "type": "guest house", "location": "Center"}, "profile": {"name": "Adi Gambo"}}
+["train", "departure", "arrival", "time", "number", "destination"]
+{"profile": {"idnumber": "010660146841"}, "train": {"people": "2", "arriveby": "13:45", "day": "Monday", "departure": "Cambridge", "destination": "London King's Cross'}}\n Hello? I'm good. How are you? I'm looking for"}}
+{"profile": {"idnumber": "0106"}, "train": {"people": "2", "arriveby": "13:45", "day": "Monday", "departure": "Cambridge", "destination": "London King's Cross'}}\n Hello. Good, how are you? I"}}
+{"profile": {"idnumber": "0106 6 or 4 5841"}, "train": {"arriveby": "1345", "day": "Monday", "departure": "Cambridge", "destination": "London King's Cross'}}\n Hello. Good, how are you? I"}}
+"place"
+{"attraction": {"type": "entertainment", "location": "city center", "style": "architecture"}}
+{"attraction": {"type": "architecture", "location": "city center"}}
+"attraction"
+"name"
+"book"
+{}
+"Cambridge"
+""
+{"hotel": {"day": "Sunday", "internet": "fast", "name": "Deslu Hotel", "parking": "yes", "people": "5", "price": "moderate", "stay": "4", "type": "hotel"}, "profile": {"name": "John Smith"}, "train": {"day": "Thursday", "destination": "Birmingham New Street", "departure": "Cambridge", "leaveat": "12:45"}}
+{"hotel": {"area": "East", "internet": "fast", "price": "moderate", "name": "Deslu Hotel", "network": "fast", "parking": "yes", "people": "5", "stay": "4", "type": "hotel"}, "profile": {"name": "Unknown"}, "train": {"day": "Thursday", "departure": "Cambridge", "destination": "Birmingham New Street", "leaveat": "12:45"}}
+{"hotel": {"price": "moderate", "area": "East", "internet": "fast", "name": "Deslu Hotel", "network": "yes", "parking": "yes", "stay": "4", "people": "5"}, "profile": {"name": "John Smith"}, "train": {"destination": "Birmingham New Street", "departure": "Cambridge", "day": "Thursday", "leaveat": "12:45"}}
+["name", "price_range", "rating", "location", "opening_hours", "type", "address"]
+{"attraction": {"area": "South", "type": "park"}, "hotel": {"area": "South", "internet": "yes", "pricerange": "expensive", "stars": "3", "type": "hotel"}, "profile": {"name": "B-A-R-B-A-R-A M-A-R-T-I-N"}}
+{"attraction": {"area": "South", "type": "park"}, "hotel": {"area": "South", "internet": "yes", "pricerange": "expensive", "stars": "3", "type": "hotel"}, "profile": {"phonenumber": "1185740315"}}
+{"hotel": {"area": "North and South", "internet": "yes", "pricerange": "expensive", "stars": "2", "type": "hotel"}, "attraction": {"area": "North and South", "opening_hours": "10:00-18:00", "type": "art gallery"}, "profile": {"name": "Barbara Martin", "phonenumber": "118-5740-7000"}}
+"type"
+{"attraction": {"area": "West", "type": "nightclub"}}
+{"attraction": {"area": "West", "type": "nightclub"}}
+{}
+["phone_number", "address", "transportation", "date"]
+{"attraction": {"type": "concert hall", "century_area": true, "phone_number": "123-4567", "address": "123 Main St"}, "train": {"year": 1915, "university": "Cambridge", "departure_location": "Bischoff's door", "day": "Monday"}}
+{"attraction": {"type": "concert hall"}, "train": {"year": "1915", "university": "Cambridge", "departure": "Bischoff's door", "day": "Monday"}}
+{"attraction": {"type": "concerthall", "area": "central area", "phone number": "1234567890", "address": "123, 456, 7890"}, "train": {"day": "Monday", "destination": "Cambridge", "departure": "Bischoff's door", "leaveat": "1915"}}
+["name", "check-in", "check-out", "room_type", "location", "internet", "parking", "phone_number", "room_number"]
+{"hotel": {"area": "West", "parking": "free", "pricerange": "high", "type": "hotel"}, "profile": {"name": "Scope", "age": "adult", "occupation": "student", "species": "human"}}
+{"hotel": {"area": "West", "parking": "free", "pricerange": "high", "type": "hotel"}, "profile": {"name": "Travis Garfield", "scope": "S-C-O-F-I-E-L-D"}}
+{"hotel": {"area": "West", "parking": "free", "pricerange": "high", "type": "hotel"}, "profile": {"name": "Travis Garfield", "spelling": "Scope"}}
+""
+{"food": "East", "pricerange": "expensive"}
+{"restaurant": {"food": "Chinese", "location": "East", "pricerange": "wandering"}}
+{"food": "East", "name": "East Restaurant", "pricerange": "expensive"}
+0
+{}
+{}
+""
+["museum", "train", "attraction"]
+{"attraction": {"name": "Cambridge Museum", "type": "museum"}, "train": {"type": "purple", "departure": "Brooksbourne", "destination": "Cambridge", "departure_time": "Tuesday 1545 p.m."}}
+{"attraction": {"area": "museum", "name": "The Fitzwilliam Museum", "postcode": "CB2 3HD"}, "train": {"colour": "purple", "departure": "Brooksbourne", "destination": "Cambridge", "departure_time": "Tuesday"}}
+{"attraction": {"name": "The Fitzwilliam Museum", "type": "museum"}, "train": {"colour": "purple", "departure": {"day": "Tuesday", "time": "after 1545 p.m."}, "destination": {"from": "Brooksbourne", "to": ""}}}
+["name", "address", "price", "location"]
+{"profile": {"name": "Jessica Payne", "age": 25}, "restaurant": {"price_range": "expensive", "cuisine": "Chinese", "area": "centre"}}
+{"profile": {"name": "Jessica Payne"}, "restaurant": {"price_range": "expensive", "cuisine": "Chinese", "area": "centre"}}
+{"profile": {"name": "Jessica Payne", "age": 35}, "restaurant": {"area": "centre", "price": "expensive", "type": "Chinese", "cuisine": "Chinese"}}
+"Don Pasquale Pizzeria"
+{"restaurant": {"name": "Don Pasquale Pizzeria", "day": "Wednesday", "people": "2", "time": "14:30"}}
+{"restaurant": {"day": "Wednesday", "people": "2", "time": "14:30", "name": "Don Pasquale Pizzeria"}}
+{"name": "Don Pasquale Pizzeria"}
+"critical"
+{"hospital": {"unit": "neuroscientist critical care", "location": "Cambridge"}}
+{}
+{"hospital": {"criticalcare": "neuroscientist", "number": "122", "location": "Cambridge"}}
+""
+{"profile": {"name": "Nora Ingraham"}, "restaurant": {"area": "centre", "pricerange": "cheap"}, "train": {"departure": "Cambridge", "destination": "Leicester", "commute": "Saturday", "arriveafter": "8pm", "traveltime": "1 hour", "deposittime": "8pm"}}
+{"profile": {"name": "Nora Ingraham"}, "restaurant": {"area": "centre", "pricerange": "cheap"}, "train": {"origin": "Cambridge", "destination": "Leicester", "departure_time": "Saturday at 8pm", "arrival_time": "one hour after 8pm"}}
+{"profile": {"name": "Nora Ingraham"}, "restaurant": {"area": "centre", "pricerange": "cheap"}, "train": {"departure": "Cambridge", "arrival": "Leicester", "commuting": "Saturday", "time": "after 8pm"}}
+"name"
+{"hotel": "Hotel X"}
+{}
+{"hotel": "Hotel X"}
+"Norwich"
+{"hotel": {"price": "cheaper", "stars": "3", "internet": "no", "location": "north"}, "train": {"day": "Tuesday", "destination": "Norwich", "departure": "Cambridge", "leaveat": "14:30"}}
+["train"]
+{"hotel": {"price": "cheaper", "star": "3"}, "train": {"departure": "Cambridge", "destination": "Norwich", "leaveat": "14:30", "day": "Tuesday", "people": "7"}}
+""
+{"name": "Wanda", "age": "unknown", "city": "Cambridge", "ID": "2084 2822 6458 6854", "email": "W-C-R-O-S-S-O-N-Y-O-Z at gmail.com"}
+{"profile": {"name": "Wanda Croson", "id": "2084", "email": "W-C-R-O-S-S-O-N-Y-O-Z at gmail.com"}, "restaurant": {"location": "east", "price_range": "moderate"}, "train": {"day": "Friday", "departure": "Cambridge", "destination": "Stansted Airport", "leaveat": "17:30"}}
+{"profile": {"idnumber": "2084 2822 6458 6854"}, "restaurant": {"area": "East", "food": "None", "pricerange": "moderate"}, "train": {"people": "9", "day": "Friday", "departure": "Cambridge", "destination": "Stansted Airport", "leaveat": "17:30"}}
+"Lydia"
+{"restaurant": {"people": "1", "area": "town", "food": "Mexican", "name": "Taco Bell", "pricerange": "low"}}
+{"restaurant": {"area": "easy", "food": "tacos"}}
+{"restaurant": {"area": "city centre", "food": "Mexican", "name": "Taco Fiesta", "pricerange": "affordable"}}
+["attraction", "hotel", "phone_number", "opening_hours", "price"]
+{"attraction": {"area": "centre", "type": "college"}, "hotel": {"no_wifi": false, "free_parking": true}}
+{"attraction": {"area": "centre", "type": "college"}, "hotel": {"price": "free", "parking": "free", "wi-fi": "no"}}
+{"attraction": {"area": "centre", "type": "college"}, "hotel": {"Wi-Fi": "no", "parking": "free"}}
+["greeting", "name", "location", "query", "train"]
+{"location": "Cambridge"}
+{"train": "yes"}
+{}
+""
+{"hotel": {"day": "Wednesday", "people": "8", "name": "Finches Bed And Breakfast"}, "profile": {"name": "Elizabeth Pegel", "phonenumber": "4405 9889 4669"}, "train": {"arrival": "4:52 p.m.", "departure": "Stansted Airport Station", "time": "16:00"}}
+{"hotel": {"day": "Wednesday", "people": "8", "name": "Finches Bed And Breakfast"}, "profile": {"name": "Elizabeth Pegel", "phonenumber": "4405 9889 4669"}, "train": {"arrival": "4:52 p.m."}}
+{"hotel": {"day": "Wednesday", "people": "8", "stay": "5", "name": "Finches Bed and Breakfast"}, "profile": {"name": "Elizabeth Pegel"}, "train": {"arrive": "4:52 p.m.", "depart": "16:00", "id": "4405946894669"}}
+""
+{"profile": {"name": "Lourdes", "phone": ["4082", "4289", "7-1"]}, "taxi": {"departure": "Stage 1 restaurant and coffee bar", "destination": "restaurant 22", "leaveat": "19:30"}}
+{"profile": {"name": "Lourdes"}, "taxi": {"departure": "Stage 1 restaurant and coffee bar", "destination": "Restaurant 22", "leaveat": "19:30"}}
+{"profile": {"name": "Lourdes", "phonenumber": "40824289"}, "taxi": {"departure": "Stage 1 restaurant and coffee bar", "destination": "Restaurant 22", "leaveat": "19:30"}}
+"name"
+{"hotel": {"price": "100", "free Wi-Fi": "yes", "area": "city center", "spaconf": "4", "full address": "123 Regent St, Cambridge CB2 1AB", "star": "4"}, "train": {"people": "1", "arriveby": "4:"}}
+{"hotel": {"price": "100", "spacondition": "4-star", "area": "city center", "freeWiFI": "yes", "fullAddress": "Cambridge, UK", "star": "4-star", "amenities": ["spacon", "pool", "gym", "WiFI", "spa"]}}
+{"train": {"people": "1", "arriveby": "4:00", "day": "Friday", "departure": "London Liverpool Street", "destination": "Cambridge"}, "hotel": {"price": "cheap", "freeWiFi": "yes", "area": "city center", "spa": "yes"}}
+["location", "food", "price", "number_of_people"]
+{"area": "centre", "foodtype": "european", "pricerange": "cheap", "table": "5", "date": "sunday", "time": "18"}
+{"area": "centre", "pricerange": "cheap", "foodtype": "European", "tablesize": "5", "day": "Sunday", "time": "18"}
+{"area": "centre", "foodtype": "European", "pricerange": "cheap"}
+["train", "departure", "date", "time", "destination", "passengers"]
+{"train": {"people": "3", "departure": "Birmingham New Street", "destination": "Cambridge", "leaveat": "18:30", "day": "Tuesday", "month": "October", "year": "11"}}
+{"people": "3", "day": "Tuesday, October 11th", "departure": "Birmingham New Street", "destination": "Cambridge", "leaveat": "6:30"}
+{"train": {"people": "3", "departure": "Birmingham New Street", "destination": "Cambridge", "leaveat": "Tuesday, October 11th, after 6:30"}}
+["full", "last"]
+{"profile": {"name": "Jackie Kelly", "platenumber": "K-E-L-L-E-Y"}, "restaurant": {"area": "center", "pricerange": "expensive", "food": "Any", "day": "Any", "time": "Any"}}
+{"profile": {"name": "Jackie Kelly", "platenumber": "JK1234"}, "restaurant": {"area": "center", "food": "any", "pricerange": "any"}}
+{"profile": {"name": "Jackie Kelly", "fullname": "J-A-C-K-I-E K-E-L-L-E-Y"}, "restaurant": {"area": "center", "expensive": "yes", "recommendation": "yes", "parkingspot": "yes"}}
+"centre"
+{"attraction": {"area": "centre", "type": "town"}, "hotel": {"price": "moderate", "amenities": ["free Wi-Fi", "guest house"], "stars": ["four"]}}
+{"attraction": {"area": "centre", "type": "university"}, "hotel": {"price": "moderate", "type": "guest house", "stars": "4", "free Wi-Fi": true, "number of guests": "4", "check-in": "Sunday afternoon", "check-out": "Monday morning"}}
+{"attraction": {"area": "centre", "type": "university"}, "hotel": {"price": "moderate", "type": "guest house", "star": "4", "free Wi-Fi": true, "name": "type", "number of guests": 4, "check-in": "this Sunday afternoon", "check-out": "Monday morning"}}
+["hotel", "location", "name", "price", "type"]
+{"hotel": {"internet": "yes", "stars": "2"}}
+{"internet": "yes", "stars": "2"}
+{"hotel": {"internet": "yes", "stars": "2"}}
+""
+{"hotel": {"name": "Alpha Notion Gas House"}, "profile": {"name": "Melanie Stoneburn"}, "train": {"from": "Cambridge", "to": "Brooks Bay", "initial_date": "Sunday"}}
+{"hotel": {"name": "Alpha Notion Gas House"}, "profile": {"name": "Melanie Stoneburn", "age": "35", "occupation": "Teacher", "address": "123, 2nd Street, Cambridge"}, "train": {"from": "Cambridge", "to": "Brooks Bay", "time": "12:30 PM, Sunday"}}
+{"hotel": {"name": "Alpha Notion Gas House"}, "profile": {"name": "Melanie Stoneburn", "age": "30", "city": "Cambridge"}, "train": {"date": "Sunday", "time": "Depart from Cambridge and go to Brooks Bay"}}
+["name", "price", "location", "time"]
+{"restaurant": {"area": "centre", "pricerange": "expensive", "name": "Curry Garden", "table": {"numberofpeople": "three", "time": "1:30 p.m."}}}
+{"restaurant": {"area": "centre", "pricerange": "expensive", "name": "Curry Garden", "day": "Thursday", "time": "13:30", "people": "3"}}
+{"restaurant": {"area": "centre", "pricerange": "expensive", "name": "Curry Garden", "time": "13:30"}}
+"Warren Bishop"
+{"profile": {"name": "Warren Bishop"}, "restaurant": {"day": "Monday", "people": "7", "time": "14:30", "area": "East", "food": "Indian", "pricerange": "moderate"}, "train": {"departure": "Bishops Strathford", "arrival": "half past 11", "duration": "3 hours"}}
+{"profile": {"name": "Warren Bishop"}, "restaurant": {"day": "Monday", "people": "7", "time": "14:30", "area": "East", "food": "Indian", "pricerange": "moderate"}, "train": {"departure": "Bishops Strathford", "arrival": "half past 11", "duration": "3 hours"}}
+{"profile": {"name": "Warren Bishop"}, "restaurant": {"day": "Monday", "people": "7", "time": "14:30", "area": "East", "food": "Indian", "pricerange": "moderate"}, "train": {"day": "Monday", "destination": "Cambridge", "departure": "Bishops Strathford", "arrival": "11:30", "duration": "3 hours"}}
+["T-H-O-M-A-S-E", "W-R-I-G-H-T"]
+{"profile": {"name": "Thomas"}, "restaurant": {"day": "Friday", "price": "expensive", "people": "5", "name": "Chinese ugly duck", "time": "evening", "email": "no email", "area": "centre"}}
+{"profile": {"name": "Thomas"}, "restaurant": {"price": "expensive", "people": "5", "time": "before 6 p.m.", "name": "Chinese Ugly Duck"}}
+{"profile": {"name": "Thomas"}, "restaurant": {"people": "5", "time": "18:00", "name": "Chinese ugly duck"}}
+""
+{"restaurant": {"location": "centre", "price": "expensive", "type": "chinese"}, "train": {"day": "monday", "departure": "12:15", "leaving": "yes", "roxburynne": "yes", "twainid": "12345"}}
+{"restaurant": {"price": "expensive", "type": "Chinese"}, "train": {"departure": "Roxy Byrne", "leave": "after 12.15", "platform": "TWAIN ID"}}
+{"restaurant": {"price": "expensive", "cuisine": "chinese", "location": "centre"}, "train": {"day": "monday", "departure": "after 12.15", "origin": "roxy Byrne"}}
+["name", "price", "domain", "time"]
+{"restaurant": {"day": "Monday", "people": "4", "time": "12:15", "food": "curry", "pricerange": "expensive"}}
+{"restaurant": {"day": "Monday", "people": "4", "time": "12:15", "food": "curry", "pricerange": "expensive"}}
+{"restaurant": {"day": "Monday", "people": "4", "time": "12:15", "food": "curry", "pricerange": "expensive"}}
+["train", "domains"]
+{"train": {"day": "before the weekend", "from": "Cambridge", "to": "Unknown", "time": "One"}}
+{"train": {"time": "before the weekend", "location": "Cambridge"}}
+{"train": {"date": "before the weekend", "location": "Cambridge"}}
+"Cambridge"
+{"train": {"day": "Wednesday", "destination": "Peterborough", "departure": "Cambridge", "people": "1", "arriveby": "09:00"}}
+{"train": {"day": "Wednesday", "destination": "Peterborough", "arriveby": "09:00", "departure": "Cambridge"}}
+{"train": {"arriveby": "09:00", "day": "Wednesday", "departure": "Cambridge", "destination": "Peterborough"}}
+["attraction_type", "address", "area", "food_type", "postcode"]
+{"attraction": {"name": "The Place", "type": "museum", "address": "123, High Street"}, "restaurant": {"name": "India House", "type": "Indian"}}
+{"attraction": {"name": "The Place"}, "restaurant": {"foodtype": "Indian", "area": "Cambridge", "postcode": "CB23HG"}}
+{"attraction": {"name": "The Place"}, "restaurant": {"foodtype": "Indian", "area": "North", "postcode": "CB23HG"}}
+["attraction", "restaurant"]
+{"attraction": {"area": "centre", "day": "Friday", "people": "1", "stay": "2", "type": "guest house"}, "restaurant": {"price": "expensive"}}
+{"attraction": {"area": "centre"}, "restaurant": {"price": "expensive"}}
+{"attraction": {"area": "centre"}, "restaurant": {"price": "expensive"}}
+["restaurant", "cuisine", "price"]
+{"restaurant": {"food": "Turkish", "pricerange": "moderate"}}
+{"restaurant": {"food": "Turkish", "pricerange": "moderate"}}
+{"restaurant": {"food": "Turkish", "pricerange": "moderate"}}
+["Cambridge", "London", "train"]
+{"train": {"departure": "Cambridge"}}
+"train"
+{"train": {"departure": "Cambridge"}}
+["type", "entrance fee", "open hours", "phone number", "price"]
+{"attraction": {"type": "university", "area": "centre", "entrance fee": 10, "open hours": "Monday to Friday 10am-5pm", "phone number": "1234567890"}, "train": {"destination": "Most Even Edge", "departure": "Saturday", "arrival": ""}}
+{"attraction": {"type": "entertainment", "traffic": "convenient"}, "train": {"time": "after 9", "day": "Saturday", "departure": "Most Even Edge", "destination": "famous university", "price": "unknown"}}
+{"attraction": {"entreefee": "price", "openhour": "price", "phone": "price"}, "train": {"arriveby": "after 9 o'clock", "departure": "Most Even Edge", "day": "after Friday", "price": "price"}}
+["El Shaddai", "1600", "344- 017 0669"]
+{"profile": {"phonenumber": "344-017-0669"}, "taxi": {"arriveby": "16:00", "departure": "El Shaddai", "destination": "Hotel in Cambridge"}}
+{"profile": {"phonenumber": "344-017-0669"}, "taxi": {"departure": "El Shaddai", "destination": "Cambridge Hotel", "leavetime": "16:00"}}
+{"profile": {"phonenumber": "3440170669"}, "taxi": {"departure": "El Shaddai", "destination": "Cambridge Hotel", "leavetime": "16:00"}}
+"Cambridge"
+{"restaurant": {"area": "centre", "food": "Modern European"}, "train": {"arriveby": "21:30", "departure": "London Liverpool Street", "destination": "Cambridge"}}
+{"restaurant": {"area": "century", "food": "modern European"}, "train": {"arriveby": "21:30", "departure": "London Liverpool Street", "destination": "Cambridge"}}
+{}
+["Name", "Number of people"]
+{"profile": {"idnumber": "632928056"}, "train": {"people": "5", "arriveby": "18:30", "day": "Thursday", "departure": "Cambridge"}}
+{"profile": {"name": "Lisa Cook", "idnumber": "123456789", "phone": "020-12345678", "age": "30"}, "train": {"people": "5", "arriveby": "18:30", "day": "Thursday", "departure": "Cambridge"}}
+{"profile": {"idnumber": "632928056"}, "train": {"people": "5", "arriveby": "18:30", "day": "Thursday", "departure": "Cambridge"}}
+["Forrestal", "Forrestal", "Forrestal"]
+{"profile": {"name": "Nancy", "age": "unknown", "location": "Cambridge"}, "restaurant": {"area": "centre", "food": "Chinese", "pricerange": "expensive"}, "train": {" departure": "LA", "destination": "Cambridge", "arrival": "9 a.m.", "ID": ["7124", "3813", "097999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999"]}}
+{"profile": {"name": "Nancy", "surname": "Forrestal"}, "restaurant": {"area": "centre", "food": "Chinese", "pricerange": "expensive"}, "train": {"people": "5", "day": "Sunday", "departure": "Cambridge", "destination": "London Liverpool Street", "leaveat": "15:45"}}
+{"profile": {"idnumber": "7124"}, "restaurant": {"area": "west", "food": "Indian", "pricerange": "expensive"}, "train": {"people": "5", "day": "Thursday", "departure": "LA", "destination": "Cambridge", "leaveat": "13:00"}}
+["Cambridge", "Bistrop", "Saturday"]
+{"attraction": {"name": "junction", "address": "123 Cambridge Street", "phone": "01234 567890", "entrance_fee": 10}, "tree": {"departure": "Bistrop stop fort", "destination": "Cambridge", "day": "Saturday", "meeting_end": ""}}
+{"attraction": {"name": "junction", "address": "123 Cambridge Street", "phone": "01234 567890", "entrance fee": "10 pounds"}, "train": {"day": "Saturday", "departure": "Bistrop", "destination": "Cambridge", "travel time": "30"}}
+{"attraction": {"name": "junction", "address": "123 Cambridge Street", "phone": "01234 567890", "entrance fee": 10}, "tree": {"departure": "Bistrop stop fort", "destination": "Cambridge", "arrival time": "12:30 a.m."}}
+["hotel", "location", "price"]
+{"hotel": {"location": "campus", "options": "both", "rating": "3", "amenities": ["free Wi-Fi", "free parking"], "price": "per night", "meat": "bone"}}
+{"hotel": {"location": "center of campus", "options": "2", "rating": "3", "amenities": "free Wi-Fi and free parking", "price": "reasonable"}}
+{"hotel": {"location": "center of campus", "options": "both", "rating": "3", "amenities": "free Wi-Fi and free parking", "price": "per night"}}
+"Name: A-U-R-O-R-A Mila"
+{"Name": "A-U-R-O-R-A Mila", "Age": 42, "Location": "Tok"}
+{}
+{}
+"key"
+"attraction"
+{"train": {"day": "Tuesday", "leaveat": "05:25"}}
+{"attraction": {"name": "Cambridge", "city": "Cambridge"}, "train": {"arrival": "17:00"}}
+"name"
+{"profile": {"name": "Jackie"}, "restaurant": {"area": "center", "pricerange": "expensive", "food": "any", "day": "any", "time": "any"}}
+{"profile": {"name": "Jackie"}, "restaurant": {"day": "None", "people": "None", "time": "None", "area": "Center", "food": "None", "pricerange": "None"}}
+{"profile": {"name": "Jackie"}, "restaurant": {"area": "center", "food": "any", "pricerange": "any"}}
+"John Walter"
+{"attraction": {"name": "Ruskin Gallery"}, "profile": {"age": "unknown", "city": "Cambridge"}, "restaurant": {"area": "centre", "food": "Chinese", "pricerange": "cheap"}}
+{"attraction": {"name": "Cambridge University Museum"}, "profile": {"age": 25}, "restaurant": {"area": "centre", "food": "Indian", "pricerange": "cheap"}}
+{"attraction": {"name": "Punting on the River Cam"}, "profile": {"age": "30s", "nationality": "British"}, "restaurant": {"area": "centre", "pricerange": "cheap"}}
+["name", "email", "domains"]
+{"profile": {"name": "Edward Sibley"}, "restaurant": {"day": "Tuesday", "people": "3", "time": "12:45", "area": "centre", "name": "Irena", "pricerange": "expensive", "cuisine": "European"}}
+{"profile": {"name": "Edward Sibley"}, "restaurant": {"day": "Tuesday", "people": "3", "time": "12:45", "area": "city center", "name": "Irena", "cuisine": "European"}}
+{"profile": {"name": "Edward Sibley"}, "restaurant": {"area": "city center", "name": "Irena", "pricerange": "expensive", "foodtype": "European"}}
+""
+{"restaurant": {"price": "expensive"}, "train": {"price": "not bad", "destination": "West", "leaving_time": "quarter past 3 p.m."}}
+{"restaurant": {"price": "expensive"}, "train": {"price": "not bad", "location": "London, Liverpool Street"}}
+{"restaurant": {"cuisine": "Thai"}, "train": {"departure": "London, Liverpool Street", "price": "not bad"}}
+""
+{"restaurant": {"name": "Eraina", "food": "turkish", "price": "moderate", "location": "center"}, "train": {"day": "Tuesday", "time": "after 2:15", "departure": "River Ken, eastern UK", "arrival": "Cambridge", "phone": "None", "postcode": "None"}}
+{"restaurant": {"name": "Turkish food", "price": "moderate", "location": "center"}, "train": {"departure": "Tuesday", "leaving_time": "after 2:15", "arrival_location": "Cambridge", "arrival_time": "unknown"}}
+{"restaurant": {"food": "Turkish", "price": "moderate", "center": "yes"}, "train": {"day": "Tuesday", "time": "2:15", "departure": "eastern UK", "destination": "Cambridge", "arrival": "??"}}
+["north"]
+{"hotel": {"area": "North", "internet": "yes", "pricerange": "mid-range", "type": "guest house", "phone": "1234567890", "parking": "free"}}
+{"hotel": {"area": "North", "internet": "yes", "pricerange": "expensive", "rating": "three-star", "type": "guest house", "phone": "1234567890", "parking": "free"}}
+{"hotel": {"area": "North", "internet": "yes", "phone": "01234567890", "pricerange": "expensive", "type": "guest house", "parking": "free"}}
+["name", "location", "test_type", "network", "accommodation"]
+{"type": "hotel", "area": "North", "network": "fast"}
+{"hotel": {"area": "North", "connection": "fast", "type": "hotel"}}
+{"hotel": {"area": "North", "pricerange": "fast", "type": "hotel with network connection"}}
+["hotel", "date", "location", "trade", "departure_time"]
+{"hotel": {"area": "South"}, "profile": {"name": "Hannah", "last_name": "Williams", "age": 34}, "train": {"departure": "Borodinovac", "time": "9:45"}}
+{"hotel": {"area": "Cambridge", "name": "Express by Holiday", "price": 60}, "profile": {"first_name": "Hannah", "last_name": "Williams", "age": 35}, "train": {"departure": "Borodinovac", "time": "10:45"}}
+{"hotel": {"name": "Express by Holiday", "price": "\u00a360", "location": "Cambridge", "booking_date": "Sunday", "booking_time": "10:00", "adults": 3}, "profile": {"first_name": "Helen", "last_name": "Williams", "phone": "01234 567890", "email": "helen.williams@example.com"}, "train": {"departure_station": ""}}
+["address", "postcode", "phone number", "train", "arrival time", "price"]
+{"restaurant": {"area": "East", "food_type": "Indian"}, "train": {"departure_time": "after 8.45", "station": "L", "date": "Friday"}}
+{"restaurant": {"area": "East", "cuisine": "Indian"}, "train": {"departure_time": "8:45", "station": "L", "arrival_time": "unknown", "price": "unknown"}}
+{"restaurant": {"area": "East", "type": "Indian"}, "train": {"departure": "Cambridge", "time": "after 8.45", "station": "L"}}
+["name", "location", "date", "time", "destination"]
+{"train": {"departure": "Stevenage Museum", "destination": "Cambridge", "leaveat": "1043", "arriveby": "11:10"}}
+{"train": {"departure": "Stevenage Museum", "destination": "Cambridge", "leaveat": "1043", "arriveby": "11:15"}}
+{"train": {"departure": "Stevenage Museum", "destination": "Cambridge", "leaveat": "1043", "arrivaltime": "1045"}}
+["location", "destination", "time", "recommendation"]
+{"attraction": {"area": "east", "type": "museum"}, "train": {"arriveby": "14:30", "day": "Friday", "departure": "Cambridge", "destination": "Brooksbourne"}}
+{"attraction": {"area": "east", "type": "all"}, "train": {"arrivaltime": "half past 2", "departure": "Cambridge", "destination": "Brooksbourne", "day": "Friday"}}
+{"attraction": {"area": "East", "type": "any"}, "train": {"arriveby": "half past 2 p.m.", "day": "Friday", "departure": "Cambridge", "destination": "Brooksbourne"}}
+""
+{"attraction": {"area": "centre"}}
+{"attraction": {"area": "centre"}}
+{"attraction": {"area": "centre"}}
+["location", "type", "amenities", "price_range", "phone_number", "postal_code"]
+{"hotel": {"type": "guest house", "stars": "4", "price": "Single: \u00a360-\u00a380, Double: \u00a380-\u00a3100, Family: \u00a3100-\u00a3120", "parking": "Free"}}
+{"hotel": {"stars": "4", "type": "guest house", "parking": "Free", "wi-fi": "Free", "price": {"single": "single", "double": "double", "family": "family"}}}
+{"hotel": {"type": "guest house", "stars": "4", "free parking": true, "free Wi-Fi": true, "price": {"single": "single", "double": "double", "family": "family"}}}
+"Ely"
+{"profile": {"name": "John Smith", "age": 25}, "train": {"departure": "Ely", "destination": "Cambridge", "date": "Tuesday"}}
+{"profile": {"phone": "6486 7666 7231"}, "train": {"departure": "Ely", "destination": "Cambridge", "day": "Monday", "leaveat": "11:45"}}
+{"profile": {"phone": "6486 7666 7231"}, "train": {"departure": "Ely", "destination": "Cambridge", "day": "Monday", "leaveat": "05:30"}}
+["Lorraine Cantu", "Monday", "three nights", "West", "two people", "three nights", "Monday"]
+{"hotel": {"pricerange": "expensive", "type": "guest house", "internet": "yes"}, "profile": {"idnumber": "5085004550519202", "name": "Lorraine Cantu"}}
+{"hotel": {"internet": "yes", "pricerange": "expensive", "type": "guest house", "start-up": "yes", "west": "yes"}, "profile": {"idnumber": "LOR... EN... CAMENGERAL", "name": "Lorraine Cantu"}}
+{"hotel": {"day": "Monday", "people": "2", "stay": "3", "internet": "yes", "pricerange": "high", "type": "guest house", "start": "yes", "location": "West"}, "profile": {"name": "Lorraine Cantu"}}
+["address", "phone number", "train", "arrival time", "price", "station name", "type of food", "departure time"]
+{"restaurant": {"area": "East", "type": "Indian"}, "train": {"departure_time": "after 8:45", "station": "L", "day": "Friday"}}
+{"restaurant": {"area": "East", "type": "Indian", "price": "Good"}, "train": {"departure": "Cambridge", "arrival": "Friday", "time": "8:45", "price": "Affordable"}}
+{"restaurant": {"area": "East", "type": "Indian"}, "train": {"departure_time": "after 8.45", "station": "L", "date": "Friday"}}
+"E-X-I"
+{"profile": {"idnumber": "335571486578", "name": "E-X-I", "surname": "A.T."}, "restaurant": {"cuisine": "International", "price": "Moderate", "table": "5", "day": "Sunday", "time": "7:30", "location": "LA"}, "train": {"people": "5", "arriveby": "11:30", "day": "Sunday", "departure": "Cambridge", "destination": "LA"}}
+{"profile": {"idnumber": "3355174836108"}, "train": {"people": "5", "arriveby": "11:30", "day": "Sunday", "departure": "LA", "destination": "Cambridge"}, "restaurant": {"price": "moderate", "day": "Sunday", "name": "E-X-I", "people": "5", "time": "7:30", "nameofname": "Okay", "nameofsurname": "A.T."}}
+{"profile": {"idnumber": "335512108"}, "restaurant": {"country": "Different", "price": "Moderate", "name": "Exi Etten"}, "train": {"people": "5", "arriveby": "11:30", "day": "Sunday", "departure": "LA", "destination": "Cambridge"}}
+""
+{"restaurant": {"area": "centre", "food": ["baba ganaoui", "tabouleh", "sfiha", "falaf"]}}
+{"restaurant": {"area": "centre", "food": ["baba ganaoui", "tabouleh", "sfiha", "falaf"]}}
+{"restaurant": {"food": ["baba ganaoui", "tabouleh", "sfiha", "falafel"]}}
+"book"
+{"taxi": {"arriveby": "02:45", "departure": "Alices Berry Lodage Guesthouse", "destination": "Hughs Hall"}}
+{"arriveby": "02:45"}
+{"taxi": {"arriveby": "14:45"}}
+["cheap", "east", "guesthouse", "parking", "internet", "address", "post", "postcode", "tuesday", "legendary university", "8.15"]
+{"hotel": {"area": "east", "type": "guesthouse", "pricerange": "cheap", "parking": "yes"}, "train": {"day": "Tuesday", "destination": "Legendary University", "leaveat": "08:15"}}
+{"hotel": {"area": "east", "pricerange": "cheap", "type": "guesthouse", "parking": "yes", "internet": "yes", "address": "123", "postcode": "12345"}, "train": {"people": "1", "day": "Tuesday", "departure": "Leicester", "destination": "Legendary University", "leaveat": "08"}}
+{"hotel": {"area": "east", "pricerange": "cheap", "type": "guesthouse", "parking": "yes", "internet": "yes", "address": "123 Main St", "post": "12345", "postcode": "12345"}, "train": {"people": "1", "day": "Tuesday", "departure": "Leicester", "destination": ""}}
+"expensive"
+{"restaurant": {"food": "Vietnamese", "pricerange": "expensive"}}
+{"restaurant": {"food": "Vietnamese", "pricerange": "expensive"}}
+{"restaurant": {"food": "Vietnamese", "pricerange": "expensive"}}
+949
+{"hotel": {"location": "South", "type": "city"}, "train": {"date": "Wednesday", "destination": "Cambridge", "time": "12:30", "trainID": "949"}}
+{"train": {"date": "Wednesday", "destination": "Cambridge", "departure": "London Liverpool Street", "time": "12:30"}, "hotel": {"location": "South"}}
+["hotel", "train"]
+"West"
+{"restaurant": {"area": "West", "food": "Japanese", "pricerange": "expensive"}}
+{"area": "West", "food": "Japanese", "pricerange": "expensive"}
+{"restaurant": {"area": "West", "food": "Japanese", "pricerange": "expensive"}}
+["name", "table", "location", "domain", "price"]
+{"profile": {"name": "Brad Dara", "contact": "D-A-R-R-A-H"}, "restaurant": {"area": "centre", "pricerange": "expensive"}}
+{"profile": {"name": "Brad Dara"}, "restaurant": {"pricerange": "expensive", "area": "centre", "name": "Curry Garden", "day": "Thursday", "time": "13:30", "people": "3"}}
+{"profile": {"name": "Brad Dara"}, "restaurant": {"area": "centre", "pricerange": "expensive", "day": "Thursday", "time": "13:30", "name": "Curry Garden"}}
+["cheap", "free", "hotel", "half past nine", "Eli", "same place", "information"]
+{"hotel": {"address": "Cambridge", "parking": "free", "package": "cheap", "stars": 3}, "train": {"departure": "Eli", "destination": "Cambridge", "leavetime": "anytime after half past nine", "type": "train", "travel": "Thursday"}}
+{"hotel": {"area": "East", "parking": "free", "package": "cheap", "stars": "3", "address": "123", "postcode": "CB1 1BB"}, "train": {"departure": "Eli", "destination": "same", "leavingtime": "anytime after 9:30"}}
+{"hotel": {"stars": "4", "address": "The Grand Hotel", "parking": "free", "pricerange": "cheap"}, "train": {"departure": "Eli", "trainleave": "anytimeafterhalfpastnine", "destination": "The Grand Hotel"}}
+"South"
+{"hotel": {"area": "South", "internet": "yes", "price": "expensive", "type": "guest house"}}
+{"area": "South", "internet": "yes", "pricerange": "expensive"}
+""
+["location", "cuisine", "time"]
+{"hotel": {"day": "Saturday", "people": "2", "stay": "3", "internet": "yes", "parking": "yes", "stars": "4", "type": "guest house"}, "restaurant": {"name": "The River Bar"}, "train": {"from": "Birmingham New Street", "to": "Cambridge", "leaving_time": "afternoon", "passengers": "3"}}
+{"hotel": {"day": "Thursday", "people": "3", "stay": "3", "internet": "yes", "parking": "yes", "stars": "4", "type": "guest house"}, "restaurant": {"name": "River Bar"}, "train": {"departure": "Birmingham New Street", "destination": "Cambridge", "time": "12:00 PM", "people": "3"}}
+{"hotel": {"internet": "yes", "parking": "yes", "stars": "4", "type": "guest house"}, "restaurant": {"location": "center of Cambridge", "cuisine": "Vietnamese", "type": "European"}, "train": {"departure": "Birmingham New Street", "departure_time": "after 12", "passengers": "3"}}
